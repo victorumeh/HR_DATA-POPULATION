@@ -21,21 +21,6 @@ Both dashboards are designed for **non-technical stakeholders** and provide acti
 
 ---
 
-## 📁 Repository Contents
-
-```
-├── NEW_HR_DATASET_POWER_BI.pbix    # Main Power BI file with both dashboards
-├── README.md                        # This file
-├── screenshots/                     # Dashboard preview images
-│   ├── hr_dashboard_page1.png
-│   ├── hr_dashboard_page2.png
-│   ├── hr_dashboard_page3.png
-│   └── population_dashboard.png
-└── Stakeholder_Report.docx          # Executive summary (plain-language)
-```
-
----
-
 ## 🔍 Dashboard 1: HR Workforce Dashboard
 
 ### Key Metrics Tracked
