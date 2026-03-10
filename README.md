@@ -113,35 +113,6 @@ Both dashboards are designed for **non-technical stakeholders** and provide acti
 
 ---
 
-## 🚀 How to Use This Dashboard
-
-### Prerequisites
-- **Power BI Desktop** (Latest version recommended)
-- Download from: [Microsoft Power BI](https://powerbi.microsoft.com/desktop/)
-
-### Steps to Open
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/hr-population-analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd hr-population-analysis
-   ```
-3. Open `NEW_HR_DATASET_POWER_BI.pbix` in Power BI Desktop
-
-4. Explore the dashboards:
-   - **HR_DATA page:** Workforce analytics
-   - **DASHBOARD pages (1-3):** Detailed HR metrics
-   - **POPULATION page:** Nigeria census data
-
-### Recommended Navigation Flow
-```
-Start → HR_DATA (Overview) → DASHBOARD (Deep-dive) → POPULATION (Geographic insights)
-```
-
----
-
 ## 📊 Key Findings & Recommendations
 
 ### 🔴 Critical Action Items
